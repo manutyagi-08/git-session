@@ -1,1 +1,5 @@
-feature A content added.
+ HEAD
+feature A  added.
+
+feature b  added
+ feature-b
